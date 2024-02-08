@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ark phoenix pvp kill no die</title>
+  <style>
+    .profile-pic-container {
+      width: 150px;
+      height: 300px;
+      overflow: hidden;
+      border-radius: 10px;
+      margin-bottom: 10px;
+      margin-right: 20px; /* تكبير الصور من الجهة اليسرى بمقدار 20 بكسل */
+    }
+
+    .profile-pic {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    .button-container {
+      display: flex;
+    }
+
+    button {
+      width: 200px;
+      height: 60px;
+      font-size: 16px;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<p>owner</p>
+
+<div class="profile-pic-container">
+  <img class="profile-pic" src="1.png" alt="Profile Picture 1">
+</div>
+<p>roronoa zoro</p>
+
+<p>partner</p>
+
+<div class="profile-pic-container">
+  <img class="profile-pic" src="2.png" alt="Profile Picture 2">
+</div>
+<p>sied ali</p>
+
+<p>co owner</p>
+
+<div class="profile-pic-container">
+  <img class="profile-pic" src="4.png" alt="Profile Picture 4">
+</div>
+<p>kasper</p>
+
+<p>admin manager</p>
+
+<div class="profile-pic-container">
+  <img class="profile-pic" src="3.png" alt="Profile Picture 3">
+</div>
+<p>Montader Al-Shammari</p>
+
+<div class="button-container">
+  <a href="https://discord.gg/X2DvdErUkz" target="_blank">
+    <button>القوانين</button>
+  </a>
+
+  <a href="https://discord.gg/MQ2DEkVVPJ" target="_blank">
+    <button>الدسكورد</button>
+  </a>
+</div>
+
+</body>
+</html>
